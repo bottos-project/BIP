@@ -50,7 +50,7 @@
   
   4. finish the discussion and lock the confirmed proposal;
   
-  5.the implemented proposal will submit the code to repository.
+  5. the implemented proposal will submit the code to repository.
   
   The corresponding result will be showed in eips.bottos.org and tracked.
   
