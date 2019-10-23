@@ -2,9 +2,9 @@
 
   BOTTOS Improvement Proposals (BIPs) is improvement plan for blockchain of Bottos, any community member or developer can raise the questions and suggestions, then provide the solutions.
  
-  BIPs define sort of the improvement rules, the BIPs member must obey the rules.
+  BIP define sort of the improvement rules, the BIP member must obey the rules.
 
-  According to the functions, BIPs’ types as follow:
+  According to the functions, BIP types as follow:
 
    chainbase: Axxxx
   
@@ -18,23 +18,23 @@
   
    Contract（BRC）:Fxxxx  
  
-# BIPs Procedure
+# BIP Procedure
    
-  The developer must obey the several procedures when raising, modifying, confirming or opening EIP. 
+  The developer must obey the several procedures when raising, modifying, confirming or opening BIP. 
 
-   Draft : proposal is in a stage of draft
+   Draft : proposal is in a stage of draft.
    
    Accepted：proposal is accepted in the process, can be setting the period of collecting suggestion.
    
-   Pending： proposal is pending
+   Pending： proposal is pending.
    
-   Final：proposal is terminated
+   Final：proposal is terminated.
    
    Implemented: proposal is already implemented, for the implemented proposal you can raise the modification suggestion.
    
-   Reject： proposal is refused
+   Reject： proposal is refused.
    
-   The proposal will be processing as figure:
+   The proposal will be processing as above states:
    
 ![](BIP_.png)
 
@@ -54,7 +54,7 @@
   
   The corresponding result will be showed in eips.bottos.org and tracked.
   
-# Eips format
+# BIP format
 
    The draft proposal must have the correct format, please refer to Eips-mode.md. Recommend the name of the draft proposal as Eips-Axxx-draft.md, just like the classification of the above BIPs.
   
