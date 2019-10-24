@@ -60,7 +60,7 @@ BIP根据功能分为以下几种类型：
   
 # BIP format
 
-   提案草案提供推荐相应的格式，参考BIP-templet.md，文件命名建议BIP-Axxx-draft.md，根据上述的分类进行命名。
+   文件命名建议BIP-Axxx-draft.md，根据上述的分类进行命名。
   
 
  

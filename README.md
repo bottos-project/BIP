@@ -56,7 +56,7 @@
   
 # BIP format
 
-   The draft proposal must have the correct format, please refer to BIP-templet.md. Recommend the name of the draft proposal as BIP-Axxx-draft.md, just like the classification of the above BIPs.
+   Recommend the name of the draft proposal as BIP-Axxx-draft.md, just like the classification of the above BIPs.
   
 
  
